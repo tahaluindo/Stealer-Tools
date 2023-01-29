@@ -1,2 +1,2 @@
-# Loki-Stealer
+# Stealer-Tools
 C++ stealer (passwords, cookies, forms, cards, wallets)
